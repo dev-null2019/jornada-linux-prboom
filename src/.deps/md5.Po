@@ -1,0 +1,87 @@
+md5.o: md5.c /usr/include/stdc-predef.h ../config.h /usr/include/string.h \
+ /usr/include/features.h /usr/include/arm-linux-gnueabi/sys/cdefs.h \
+ /usr/include/arm-linux-gnueabi/bits/wordsize.h \
+ /usr/include/arm-linux-gnueabi/gnu/stubs.h \
+ /usr/include/arm-linux-gnueabi/gnu/stubs-soft.h \
+ /usr/lib/gcc/arm-linux-gnueabi/6/include/stddef.h /usr/include/xlocale.h \
+ /usr/include/arm-linux-gnueabi/bits/string.h \
+ /usr/include/arm-linux-gnueabi/bits/string2.h /usr/include/stdlib.h \
+ /usr/include/arm-linux-gnueabi/sys/types.h \
+ /usr/include/arm-linux-gnueabi/bits/types.h \
+ /usr/include/arm-linux-gnueabi/bits/typesizes.h /usr/include/time.h \
+ /usr/include/endian.h /usr/include/arm-linux-gnueabi/bits/endian.h \
+ /usr/include/arm-linux-gnueabi/bits/byteswap.h \
+ /usr/include/arm-linux-gnueabi/bits/byteswap-16.h \
+ /usr/include/arm-linux-gnueabi/sys/select.h \
+ /usr/include/arm-linux-gnueabi/bits/select.h \
+ /usr/include/arm-linux-gnueabi/bits/sigset.h \
+ /usr/include/arm-linux-gnueabi/bits/time.h \
+ /usr/include/arm-linux-gnueabi/sys/sysmacros.h \
+ /usr/include/arm-linux-gnueabi/bits/pthreadtypes.h md5.h \
+ /usr/include/inttypes.h \
+ /usr/lib/gcc/arm-linux-gnueabi/6/include/stdint.h /usr/include/stdint.h \
+ /usr/include/arm-linux-gnueabi/bits/wchar.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/arm-linux-gnueabi/sys/cdefs.h:
+
+/usr/include/arm-linux-gnueabi/bits/wordsize.h:
+
+/usr/include/arm-linux-gnueabi/gnu/stubs.h:
+
+/usr/include/arm-linux-gnueabi/gnu/stubs-soft.h:
+
+/usr/lib/gcc/arm-linux-gnueabi/6/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/arm-linux-gnueabi/bits/string.h:
+
+/usr/include/arm-linux-gnueabi/bits/string2.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/arm-linux-gnueabi/sys/types.h:
+
+/usr/include/arm-linux-gnueabi/bits/types.h:
+
+/usr/include/arm-linux-gnueabi/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/endian.h:
+
+/usr/include/arm-linux-gnueabi/bits/endian.h:
+
+/usr/include/arm-linux-gnueabi/bits/byteswap.h:
+
+/usr/include/arm-linux-gnueabi/bits/byteswap-16.h:
+
+/usr/include/arm-linux-gnueabi/sys/select.h:
+
+/usr/include/arm-linux-gnueabi/bits/select.h:
+
+/usr/include/arm-linux-gnueabi/bits/sigset.h:
+
+/usr/include/arm-linux-gnueabi/bits/time.h:
+
+/usr/include/arm-linux-gnueabi/sys/sysmacros.h:
+
+/usr/include/arm-linux-gnueabi/bits/pthreadtypes.h:
+
+md5.h:
+
+/usr/include/inttypes.h:
+
+/usr/lib/gcc/arm-linux-gnueabi/6/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/arm-linux-gnueabi/bits/wchar.h:
